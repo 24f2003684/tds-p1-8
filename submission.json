@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal but physically plausible scene of a large sloping terrain made of many smaller tilted platforms. On each small platform, objects such as marbles are consistently oriented upward along the local slope, suggesting upward movement. However, the entire collection of platforms together clearly forms a larger slope that descends in the opposite direction. The composition makes it visually apparent that all local directions point upward while the global structure slopes downward. Soft natural lighting, realistic textures, no text, no symbols, no diagrams, no labels.",
+  "model": "DALL·E 3",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each small surface shows upward movement, but together they form a downward slope, creating a contradiction between local and global trends."
+}
